@@ -1,4 +1,4 @@
-package dchizhova68.lesson7;
+package dchizhova68.lesson13;
 
 import dchizhova68.TestBase;
 import dchizhova68.TestDataRegistrationForm;
