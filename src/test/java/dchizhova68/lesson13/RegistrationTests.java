@@ -11,6 +11,7 @@ public class RegistrationTests extends TestBase {
     TestDataRegistrationForm testData = new TestDataRegistrationForm();
 
     @DisplayName("Проверка регистрации со всеми параметрами")
+    @Tag("FullScript")
     @Test
     void successfulRegistrationTest() {
 
