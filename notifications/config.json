@@ -1,0 +1,16 @@
+{
+  "base": {
+    "project": "${JOB_BASE_NAME}",
+    "environment": "master",
+    "comment": "Завершено выполнение автотестов",
+    "reportLink": "${BUILD_URL}",
+    "language": "en",
+    "messenger": "telegram",
+    "allureFolder": "allure-report",
+    "enableChart": true
+  },
+  "telegram": {
+    "token": "6530069347:AAHX6T_IPHp10HG_IFdty3ssvXHYagWq5Ls",
+    "chat": "-1277803701"
+  }
+}
